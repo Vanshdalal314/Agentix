@@ -31,8 +31,7 @@ An intelligent, role-based AI chatbot system built using **LangGraph**, **Groq**
 - 🌐 **Tavily Search** — Optional web search integrated via tools
 - 💬 **Interactive Chat UI** — Built using Streamlit
 - 🔗 **Modular Backend** — Powered by FastAPI
-- 🧩  **Pydantic** – Data validation and parsing of request payloads
--       Used in backend.py to strictly define and validate the structure of incoming API requests via the RequestState class.
+- 🧩  **Pydantic** – Data validation and parsing of request payloads (Used in backend.py to strictly define and validate the structure of incoming API requests via the RequestState class.)
 
 ---
 
