@@ -1,0 +1,8 @@
+streamlit
+uvicorn
+fastapi
+langgraph
+pydantic
+langchain
+langchain-tavily
+langchain_groq
