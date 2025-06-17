@@ -40,8 +40,8 @@ An intelligent, role-based AI chatbot system built using **LangGraph**, **Groq**
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/langgraph-ai-agent.git
-cd langgraph-ai-agent
+git clone https://github.com/Vanshdalal314/Agentix
+cd agentix
 ````
 
 ### 2. Setup Python Environment
