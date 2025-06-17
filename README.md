@@ -1,4 +1,4 @@
-# 🤖 LangGraph AI Chatbot Agent
+# 🤖 Agentix: Smarter conversations, your way.
 
 An intelligent, role-based AI chatbot system built using **LangGraph**, **Groq**, and **Tavily**. It enables users to define agent behavior dynamically and optionally allow web search. Comes with a modern **Streamlit** frontend and a **FastAPI** backend.
 
