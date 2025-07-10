@@ -93,5 +93,3 @@ MIT License
 ## 👤 Author
 
 Made by **Vansh Dalal**
-
-```
